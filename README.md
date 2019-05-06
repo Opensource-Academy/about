@@ -1,7 +1,7 @@
 # About
 
 ## What
-Opensource Academy aims to provide guidance to indviduals or groups looking to get started with, contribute to, or learn more about open source.
+Open Source Academy aims to provide guidance to indviduals or groups looking to get started with, contribute to, or learn more about open source.
 
 ## Why?
 [Have a few reasons!](https://www.google.com/search?q=why+should+I+care+about+open+source)
@@ -10,13 +10,13 @@ Opensource Academy aims to provide guidance to indviduals or groups looking to g
 **Everyone** who wants to get involved. So yes, that includes **you**!
 
 ## Where
-The [homepage](https://opensource-academy.github.io/) has links to where you can find Opensource Academy online.
+The [homepage](https://opensource-academy.github.io/) has links to where you can find Open Source Academy online.
 
 Follow us on [Twitter](https://twitter.com/opensourceac) to easily receive updates.
 
 ---
 
-Opensource Academy is an initiative by [DutchSec](https://www.dutchsec.com/).
+Open Source Academy is an initiative by [DutchSec](https://www.dutchsec.com/).
 
 ```
    Copyright 2018 Opensource Academy
